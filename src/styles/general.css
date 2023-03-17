@@ -1,0 +1,17 @@
+body {
+    width: 100vw;
+    background-image: url('../assets/images/pokemons.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    padding: 80px 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.home {
+    padding: 20px 40px;
+    font-size: 20px;
+}

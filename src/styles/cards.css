@@ -1,0 +1,42 @@
+.cardHeight {
+    height: 450px !important;
+    text-align: center;
+}
+
+.welcomeCard {
+    width: 950px;
+    text-align: center;
+    opacity: 0.8;
+}
+
+.inputPokemon {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+}
+
+.infoCard {
+    text-align: center;
+    background-color: #49896f !important;
+    width: 300px !important;
+    color: #ffffff;
+
+}
+
+.titleInfo {
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+
+.titleHabily {
+    margin-top: 65px;
+}
+
+.cardHability {
+    background-color: #de5239 !important;
+    color: #ffffff;
+}
+
+.cardStats {
+    background-color: #A1D9EF !important;
+    color: #ffffff;
+}
